@@ -1,0 +1,1955 @@
+emp_id,rating
+E8,Acceptable
+E9,Acceptable
+E12,Acceptable
+E15,Acceptable
+E34,Acceptable
+E37,Unacceptable
+E47,Above Average
+E50,Above Average
+E53,Acceptable
+E60,Above Average
+E67,Above Average
+E68,Acceptable
+E80,Above Average
+E83,Acceptable
+E89,Above Average
+E107,Above Average
+E110,Acceptable
+E112,Excellent
+E115,Above Average
+E126,Above Average
+E127,Acceptable
+E130,Above Average
+E132,Above Average
+E142,Below Average
+E150,Acceptable
+E153,Above Average
+E177,Acceptable
+E179,Above Average
+E187,Above Average
+E192,Below Average
+E194,Above Average
+E201,Acceptable
+E202,Above Average
+E206,Acceptable
+E214,Acceptable
+E226,Acceptable
+E233,Above Average
+E245,Acceptable
+E247,Acceptable
+E269,Above Average
+E276,Acceptable
+E277,Acceptable
+E312,Acceptable
+E314,Below Average
+E332,Above Average
+E350,Acceptable
+E354,Acceptable
+E359,Acceptable
+E366,Above Average
+E373,Acceptable
+E381,Acceptable
+E386,Acceptable
+E391,Above Average
+E398,Acceptable
+E399,Above Average
+E401,Acceptable
+E403,Acceptable
+E410,Above Average
+E426,Acceptable
+E432,Acceptable
+E436,Above Average
+E440,Acceptable
+E443,Acceptable
+E451,Acceptable
+E453,Above Average
+E473,Unacceptable
+E475,Excellent
+E476,Excellent
+E477,Acceptable
+E486,Acceptable
+E487,Acceptable
+E494,Acceptable
+E504,Above Average
+E506,Acceptable
+E508,Above Average
+E511,Acceptable
+E519,Below Average
+E520,Acceptable
+E522,Above Average
+E529,Acceptable
+E534,Acceptable
+E535,Above Average
+E537,Acceptable
+E545,Above Average
+E549,Acceptable
+E568,Acceptable
+E571,Acceptable
+E572,Acceptable
+E573,Above Average
+E591,Below Average
+E593,Acceptable
+E596,Acceptable
+E607,Acceptable
+E608,Above Average
+E611,Excellent
+E613,Acceptable
+E619,Acceptable
+E627,Acceptable
+E632,Acceptable
+E652,Acceptable
+E656,Acceptable
+E664,Above Average
+E666,Acceptable
+E668,Acceptable
+E670,Below Average
+E674,Acceptable
+E682,Acceptable
+E688,Acceptable
+E691,Acceptable
+E702,Acceptable
+E705,Acceptable
+E714,Above Average
+E715,Acceptable
+E720,Above Average
+E729,Excellent
+E765,Acceptable
+E766,Acceptable
+E769,Above Average
+E802,Above Average
+E806,Acceptable
+E808,Below Average
+E816,Above Average
+E819,Acceptable
+E824,Below Average
+E826,Excellent
+E837,Acceptable
+E839,Below Average
+E842,Acceptable
+E859,Acceptable
+E864,Acceptable
+E877,Above Average
+E887,Unacceptable
+E893,Acceptable
+E899,Above Average
+E901,Excellent
+E904,Above Average
+E925,Acceptable
+E926,Acceptable
+E928,Acceptable
+E932,Above Average
+E943,Acceptable
+E945,Acceptable
+E952,Acceptable
+E954,Above Average
+E964,Acceptable
+E965,Acceptable
+E980,Acceptable
+E981,Acceptable
+E995,Above Average
+E996,Below Average
+E1008,Acceptable
+E1016,Acceptable
+E1031,Acceptable
+E1035,Excellent
+E1039,Above Average
+E1053,Acceptable
+E1069,Above Average
+E1072,Excellent
+E1087,Above Average
+E1088,Acceptable
+E1091,Below Average
+E1097,Acceptable
+E1101,Above Average
+E1110,Acceptable
+E1114,Acceptable
+E1115,Above Average
+E1119,Acceptable
+E1120,Acceptable
+E1130,Acceptable
+E1136,Above Average
+E1139,Above Average
+E1161,Acceptable
+E1163,Above Average
+E1166,Acceptable
+E1176,Above Average
+E1200,Above Average
+E1201,Acceptable
+E1202,Acceptable
+E1204,Excellent
+E1205,Above Average
+E1210,Acceptable
+E1215,Acceptable
+E1222,Acceptable
+E1234,Acceptable
+E1236,Below Average
+E1244,Acceptable
+E1246,Above Average
+E1268,Excellent
+E1271,Acceptable
+E1276,Above Average
+E1298,Above Average
+E1302,Excellent
+E1314,Acceptable
+E1322,Acceptable
+E1328,Excellent
+E1355,Acceptable
+E1357,Acceptable
+E1367,Acceptable
+E1373,Acceptable
+E1375,Excellent
+E1382,Acceptable
+E1387,Above Average
+E1389,Acceptable
+E1392,Acceptable
+E1412,Unacceptable
+E1421,Above Average
+E1425,Acceptable
+E1429,Above Average
+E1430,Acceptable
+E1446,Above Average
+E1459,Acceptable
+E1460,Excellent
+E1466,Acceptable
+E1472,Acceptable
+E1498,Below Average
+E1503,Acceptable
+E1504,Above Average
+E1517,Acceptable
+E1526,Acceptable
+E1527,Acceptable
+E1529,Excellent
+E1538,Above Average
+E1541,Acceptable
+E1542,Acceptable
+E1545,Excellent
+E1554,Above Average
+E1555,Acceptable
+E1559,Acceptable
+E1567,Acceptable
+E1572,Acceptable
+E1579,Acceptable
+E1581,Acceptable
+E1584,Acceptable
+E1592,Above Average
+E1602,Above Average
+E1610,Excellent
+E1614,Acceptable
+E1626,Above Average
+E1628,Acceptable
+E1633,Acceptable
+E1634,Acceptable
+E1655,Acceptable
+E1659,Acceptable
+E1667,Above Average
+E1673,Above Average
+E1678,Above Average
+E1687,Acceptable
+E1703,Acceptable
+E1720,Above Average
+E1730,Acceptable
+E1733,Acceptable
+E1740,Below Average
+E1761,Above Average
+E1762,Above Average
+E1764,Excellent
+E1771,Below Average
+E1775,Acceptable
+E1776,Acceptable
+E1787,Above Average
+E1789,Excellent
+E1800,Acceptable
+E1829,Above Average
+E1830,Above Average
+E1837,Above Average
+E1838,Acceptable
+E1842,Above Average
+E1846,Acceptable
+E1849,Acceptable
+E1853,Below Average
+E1856,Below Average
+E1862,Excellent
+E1865,Acceptable
+E1867,Acceptable
+E1869,Acceptable
+E1871,Acceptable
+E1876,Excellent
+E1887,Acceptable
+E1908,Acceptable
+E1914,Acceptable
+E1916,Acceptable
+E1918,Above Average
+E1923,Above Average
+E1927,Acceptable
+E1931,Below Average
+E1942,Below Average
+E1950,Above Average
+E1959,Above Average
+E1960,Acceptable
+E1964,Above Average
+E1976,Acceptable
+E1985,Acceptable
+E1994,Acceptable
+E2007,Acceptable
+E2023,Acceptable
+E2024,Acceptable
+E2036,Above Average
+E2050,Acceptable
+E2054,Acceptable
+E2078,Acceptable
+E2080,Below Average
+E2088,Acceptable
+E2098,Acceptable
+E2104,Above Average
+E2106,Acceptable
+E2110,Above Average
+E2114,Above Average
+E2120,Below Average
+E2126,Acceptable
+E2129,Acceptable
+E2139,Acceptable
+E2141,Below Average
+E2158,Acceptable
+E2163,Unacceptable
+E2179,Above Average
+E2188,Acceptable
+E2194,Excellent
+E2206,Acceptable
+E2216,Above Average
+E2226,Acceptable
+E2242,Excellent
+E2263,Acceptable
+E2306,Acceptable
+E2311,Acceptable
+E2312,Acceptable
+E2314,Acceptable
+E2327,Above Average
+E2330,Above Average
+E2334,Acceptable
+E2348,Acceptable
+E2353,Above Average
+E2369,Acceptable
+E2370,Acceptable
+E2371,Acceptable
+E2380,Acceptable
+E2382,Above Average
+E2386,Acceptable
+E2388,Acceptable
+E2390,Above Average
+E2391,Acceptable
+E2401,Below Average
+E2403,Below Average
+E2409,Acceptable
+E2410,Acceptable
+E2415,Acceptable
+E2416,Acceptable
+E2425,Acceptable
+E2431,Excellent
+E2453,Above Average
+E2471,Acceptable
+E2485,Acceptable
+E2489,Above Average
+E2493,Above Average
+E2494,Acceptable
+E2496,Above Average
+E2500,Acceptable
+E2503,Below Average
+E2509,Above Average
+E2516,Acceptable
+E2517,Above Average
+E2522,Acceptable
+E2523,Acceptable
+E2532,Below Average
+E2538,Above Average
+E2540,Acceptable
+E2544,Acceptable
+E2550,Acceptable
+E2563,Acceptable
+E2566,Excellent
+E2584,Above Average
+E2585,Below Average
+E2586,Acceptable
+E2602,Acceptable
+E2608,Acceptable
+E2611,Above Average
+E2612,Below Average
+E2613,Above Average
+E2627,Excellent
+E2629,Acceptable
+E2631,Excellent
+E2653,Acceptable
+E2659,Acceptable
+E2663,Acceptable
+E2668,Acceptable
+E2670,Above Average
+E2683,Excellent
+E2684,Above Average
+E2700,Acceptable
+E2711,Above Average
+E2714,Above Average
+E2716,Above Average
+E2731,Above Average
+E2733,Acceptable
+E2737,Acceptable
+E2744,Acceptable
+E2752,Acceptable
+E2753,Above Average
+E2760,Acceptable
+E2771,Acceptable
+E2775,Below Average
+E2782,Above Average
+E2784,Acceptable
+E2798,Acceptable
+E2805,Acceptable
+E2807,Below Average
+E2809,Above Average
+E2816,Above Average
+E2823,Acceptable
+E2827,Excellent
+E2830,Above Average
+E2836,Above Average
+E2850,Acceptable
+E2854,Acceptable
+E2858,Below Average
+E2870,Excellent
+E2877,Acceptable
+E2885,Acceptable
+E2890,Below Average
+E2898,Acceptable
+E2906,Below Average
+E2909,Below Average
+E2912,Below Average
+E2922,Acceptable
+E2925,Acceptable
+E2927,Acceptable
+E2931,Above Average
+E2935,Above Average
+E2946,Above Average
+E2948,Acceptable
+E2966,Acceptable
+E2978,Below Average
+E2979,Above Average
+E2980,Acceptable
+E2988,Below Average
+E3011,Above Average
+E3012,Above Average
+E3039,Acceptable
+E3041,Below Average
+E3044,Acceptable
+E3058,Unacceptable
+E3060,Acceptable
+E3103,Acceptable
+E3112,Acceptable
+E3123,Above Average
+E3124,Acceptable
+E3125,Acceptable
+E3136,Above Average
+E3143,Below Average
+E3144,Acceptable
+E3150,Above Average
+E3153,Above Average
+E3160,Unacceptable
+E3161,Below Average
+E3166,Acceptable
+E3180,Acceptable
+E3189,Acceptable
+E3195,Acceptable
+E3205,Above Average
+E3206,Above Average
+E3207,Acceptable
+E3233,Acceptable
+E3249,Acceptable
+E3251,Acceptable
+E3267,Below Average
+E3269,Acceptable
+E3273,Above Average
+E3277,Above Average
+E3290,Below Average
+E3300,Acceptable
+E3311,Above Average
+E3312,Acceptable
+E3321,Acceptable
+E3336,Acceptable
+E3338,Unacceptable
+E3348,Above Average
+E3350,Acceptable
+E3351,Acceptable
+E3355,Acceptable
+E3357,Above Average
+E3360,Below Average
+E3367,Acceptable
+E3371,Acceptable
+E3372,Excellent
+E3380,Above Average
+E3383,Acceptable
+E3389,Below Average
+E3403,Below Average
+E3408,Above Average
+E3412,Above Average
+E3416,Acceptable
+E3417,Above Average
+E3438,Excellent
+E3443,Acceptable
+E3448,Below Average
+E3460,Acceptable
+E3462,Acceptable
+E3465,Acceptable
+E3467,Acceptable
+E3477,Above Average
+E3488,Above Average
+E3494,Above Average
+E3512,Acceptable
+E3526,Unacceptable
+E3527,Above Average
+E3538,Below Average
+E3540,Below Average
+E3548,Excellent
+E3552,Acceptable
+E3555,Acceptable
+E3557,Acceptable
+E3569,Acceptable
+E3593,Excellent
+E3596,Above Average
+E3601,Above Average
+E3606,Above Average
+E3610,Excellent
+E3624,Acceptable
+E3649,Acceptable
+E3656,Acceptable
+E3657,Above Average
+E3674,Acceptable
+E3678,Above Average
+E3695,Above Average
+E3707,Above Average
+E3711,Below Average
+E3742,Above Average
+E3746,Acceptable
+E3754,Unacceptable
+E3756,Acceptable
+E3762,Above Average
+E3790,Acceptable
+E3796,Acceptable
+E3804,Below Average
+E3813,Acceptable
+E3821,Unacceptable
+E3831,Below Average
+E3836,Acceptable
+E3842,Above Average
+E3843,Excellent
+E3848,Acceptable
+E3874,Acceptable
+E3876,Acceptable
+E3883,Acceptable
+E3893,Above Average
+E3917,Below Average
+E3919,Acceptable
+E3943,Acceptable
+E3945,Acceptable
+E3953,Acceptable
+E3957,Below Average
+E3958,Above Average
+E3960,Acceptable
+E3973,Above Average
+E3979,Acceptable
+E3987,Above Average
+E4011,Acceptable
+E4027,Acceptable
+E4029,Above Average
+E4047,Acceptable
+E4050,Acceptable
+E4052,Above Average
+E4055,Above Average
+E4056,Above Average
+E4062,Acceptable
+E4070,Acceptable
+E4086,Acceptable
+E4089,Below Average
+E4091,Below Average
+E4094,Acceptable
+E4098,Unacceptable
+E4102,Acceptable
+E4115,Above Average
+E4117,Above Average
+E4120,Acceptable
+E4123,Above Average
+E4124,Above Average
+E4147,Acceptable
+E4150,Acceptable
+E4162,Acceptable
+E4169,Above Average
+E4185,Acceptable
+E4192,Above Average
+E4205,Acceptable
+E4209,Below Average
+E4211,Acceptable
+E4222,Acceptable
+E4223,Below Average
+E4230,Acceptable
+E4231,Below Average
+E4234,Acceptable
+E4236,Acceptable
+E4244,Acceptable
+E4250,Acceptable
+E4255,Above Average
+E4257,Acceptable
+E4265,Acceptable
+E4267,Acceptable
+E4291,Acceptable
+E4294,Acceptable
+E4295,Acceptable
+E4296,Acceptable
+E4312,Above Average
+E4317,Acceptable
+E4330,Acceptable
+E4344,Acceptable
+E4345,Acceptable
+E4346,Acceptable
+E4365,Acceptable
+E4369,Acceptable
+E4374,Acceptable
+E4376,Below Average
+E4377,Acceptable
+E4388,Acceptable
+E4390,Acceptable
+E4391,Above Average
+E4393,Above Average
+E4401,Acceptable
+E4415,Above Average
+E4420,Acceptable
+E4425,Above Average
+E4428,Above Average
+E4429,Above Average
+E4433,Acceptable
+E4435,Above Average
+E4457,Above Average
+E4458,Acceptable
+E4474,Above Average
+E4478,Unacceptable
+E4481,Acceptable
+E4482,Above Average
+E4484,Above Average
+E4486,Above Average
+E4498,Above Average
+E4502,Above Average
+E4509,Acceptable
+E4514,Acceptable
+E4523,Above Average
+E4533,Below Average
+E4536,Below Average
+E4539,Excellent
+E4546,Acceptable
+E4547,Acceptable
+E4561,Above Average
+E4568,Above Average
+E4573,Above Average
+E4575,Acceptable
+E4593,Above Average
+E4594,Above Average
+E4605,Above Average
+E4613,Below Average
+E4614,Acceptable
+E4617,Acceptable
+E4621,Excellent
+E4630,Above Average
+E4634,Acceptable
+E4637,Above Average
+E4650,Acceptable
+E4651,Excellent
+E4656,Below Average
+E4661,Acceptable
+E4667,Below Average
+E4671,Acceptable
+E4685,Above Average
+E4714,Below Average
+E4722,Above Average
+E4733,Acceptable
+E4775,Acceptable
+E4784,Acceptable
+E4785,Below Average
+E4786,Above Average
+E4793,Above Average
+E4796,Excellent
+E4798,Acceptable
+E4813,Acceptable
+E4823,Above Average
+E4829,Unacceptable
+E4837,Above Average
+E4840,Below Average
+E4843,Acceptable
+E4846,Acceptable
+E4848,Acceptable
+E4856,Above Average
+E4881,Excellent
+E4884,Below Average
+E4897,Acceptable
+E4910,Acceptable
+E4926,Acceptable
+E4934,Acceptable
+E4936,Acceptable
+E4955,Above Average
+E4962,Acceptable
+E4967,Acceptable
+E4978,Excellent
+E4985,Acceptable
+E4990,Below Average
+E5000,Acceptable
+E5004,Above Average
+E5006,Acceptable
+E5013,Above Average
+E5014,Acceptable
+E5019,Unacceptable
+E5025,Above Average
+E5028,Acceptable
+E5049,Above Average
+E5062,Acceptable
+E5079,Acceptable
+E5083,Acceptable
+E5098,Acceptable
+E5099,Above Average
+E5103,Acceptable
+E5111,Acceptable
+E5113,Acceptable
+E5123,Acceptable
+E5125,Excellent
+E5137,Acceptable
+E5142,Above Average
+E5159,Acceptable
+E5160,Acceptable
+E5164,Acceptable
+E5171,Above Average
+E5194,Acceptable
+E5195,Below Average
+E5196,Acceptable
+E5197,Excellent
+E5208,Acceptable
+E5222,Acceptable
+E5242,Above Average
+E5247,Below Average
+E5249,Above Average
+E5250,Below Average
+E5252,Excellent
+E5262,Acceptable
+E5264,Above Average
+E5278,Acceptable
+E5283,Acceptable
+E5296,Above Average
+E5311,Below Average
+E5326,Acceptable
+E5338,Acceptable
+E5339,Acceptable
+E5352,Excellent
+E5359,Acceptable
+E5362,Above Average
+E5363,Acceptable
+E5378,Acceptable
+E5379,Below Average
+E5385,Acceptable
+E5386,Acceptable
+E5392,Above Average
+E5397,Acceptable
+E5400,Acceptable
+E5401,Acceptable
+E5409,Above Average
+E5412,Acceptable
+E5413,Acceptable
+E5415,Above Average
+E5424,Above Average
+E5439,Acceptable
+E5445,Below Average
+E5451,Above Average
+E5453,Acceptable
+E5465,Acceptable
+E5466,Acceptable
+E5473,Acceptable
+E5474,Below Average
+E5490,Acceptable
+E5493,Above Average
+E5501,Acceptable
+E5507,Acceptable
+E5511,Acceptable
+E5520,Acceptable
+E5524,Acceptable
+E5525,Acceptable
+E5533,Below Average
+E5538,Below Average
+E5541,Above Average
+E5557,Above Average
+E5561,Acceptable
+E5567,Acceptable
+E5570,Above Average
+E5579,Above Average
+E5580,Acceptable
+E5587,Acceptable
+E5592,Above Average
+E5607,Acceptable
+E5628,Above Average
+E5643,Acceptable
+E5654,Acceptable
+E5667,Acceptable
+E5672,Acceptable
+E5673,Acceptable
+E5681,Acceptable
+E5684,Unacceptable
+E5687,Acceptable
+E5694,Above Average
+E5702,Above Average
+E5707,Acceptable
+E5727,Acceptable
+E5728,Unacceptable
+E5730,Below Average
+E5735,Above Average
+E5736,Acceptable
+E5739,Acceptable
+E5744,Above Average
+E5751,Above Average
+E5754,Acceptable
+E5758,Above Average
+E5768,Below Average
+E5772,Acceptable
+E5780,Acceptable
+E5783,Excellent
+E5791,Above Average
+E5793,Acceptable
+E5808,Acceptable
+E5816,Excellent
+E5817,Excellent
+E5832,Acceptable
+E5841,Acceptable
+E5846,Acceptable
+E5856,Above Average
+E5873,Above Average
+E5885,Above Average
+E5896,Excellent
+E5899,Acceptable
+E5900,Acceptable
+E5916,Acceptable
+E5935,Acceptable
+E5942,Acceptable
+E5945,Above Average
+E5949,Above Average
+E5950,Acceptable
+E5958,Above Average
+E5963,Acceptable
+E5973,Acceptable
+E5997,Acceptable
+E6013,Below Average
+E6022,Excellent
+E6032,Above Average
+E6034,Acceptable
+E6037,Acceptable
+E6050,Acceptable
+E6052,Acceptable
+E6056,Below Average
+E6063,Acceptable
+E6067,Acceptable
+E6071,Acceptable
+E6087,Acceptable
+E6088,Acceptable
+E6092,Acceptable
+E6095,Above Average
+E6097,Acceptable
+E6098,Acceptable
+E6107,Acceptable
+E6111,Acceptable
+E6120,Below Average
+E6126,Excellent
+E6132,Acceptable
+E6142,Acceptable
+E6146,Excellent
+E6148,Above Average
+E6154,Above Average
+E6160,Above Average
+E6161,Above Average
+E6164,Above Average
+E6168,Below Average
+E6169,Acceptable
+E6171,Excellent
+E6182,Acceptable
+E6183,Acceptable
+E6190,Above Average
+E6193,Acceptable
+E6203,Acceptable
+E6205,Acceptable
+E6206,Above Average
+E6209,Acceptable
+E6213,Acceptable
+E6214,Acceptable
+E6217,Acceptable
+E6219,Above Average
+E6222,Acceptable
+E6235,Above Average
+E6236,Acceptable
+E6245,Above Average
+E6247,Above Average
+E6249,Acceptable
+E6251,Acceptable
+E6260,Acceptable
+E6261,Acceptable
+E6267,Acceptable
+E6270,Acceptable
+E6278,Above Average
+E6292,Above Average
+E6320,Above Average
+E6322,Acceptable
+E6327,Acceptable
+E6328,Above Average
+E6357,Below Average
+E6358,Below Average
+E6362,Excellent
+E6370,Above Average
+E6374,Acceptable
+E6377,Acceptable
+E6382,Acceptable
+E6395,Acceptable
+E6399,Below Average
+E6405,Acceptable
+E6406,Unacceptable
+E6414,Above Average
+E6416,Acceptable
+E6419,Acceptable
+E6434,Acceptable
+E6435,Acceptable
+E6438,Above Average
+E6450,Below Average
+E6457,Above Average
+E6467,Acceptable
+E6473,Acceptable
+E6475,Excellent
+E6485,Acceptable
+E6487,Acceptable
+E6499,Acceptable
+E6505,Acceptable
+E6506,Above Average
+E6511,Acceptable
+E6527,Acceptable
+E6546,Acceptable
+E6551,Excellent
+E6555,Excellent
+E6562,Acceptable
+E6567,Below Average
+E6574,Below Average
+E6580,Above Average
+E6583,Above Average
+E6585,Below Average
+E6592,Acceptable
+E6596,Excellent
+E6600,Above Average
+E6607,Above Average
+E6611,Acceptable
+E6619,Excellent
+E6626,Above Average
+E6630,Acceptable
+E6633,Acceptable
+E6636,Above Average
+E6644,Acceptable
+E6647,Acceptable
+E6665,Unacceptable
+E6666,Acceptable
+E6668,Above Average
+E6680,Acceptable
+E6684,Above Average
+E6705,Excellent
+E6706,Below Average
+E6710,Acceptable
+E6718,Acceptable
+E6720,Acceptable
+E6725,Acceptable
+E6737,Acceptable
+E6740,Above Average
+E6743,Acceptable
+E6755,Acceptable
+E6770,Acceptable
+E6774,Acceptable
+E6777,Excellent
+E6806,Acceptable
+E6808,Below Average
+E6810,Acceptable
+E6821,Excellent
+E6822,Above Average
+E6832,Acceptable
+E6833,Acceptable
+E6844,Acceptable
+E6858,Acceptable
+E6859,Above Average
+E6873,Excellent
+E6883,Above Average
+E6884,Excellent
+E6902,Above Average
+E6903,Above Average
+E6918,Above Average
+E6932,Acceptable
+E6936,Above Average
+E6943,Above Average
+E6946,Above Average
+E6962,Acceptable
+E6964,Above Average
+E6969,Acceptable
+E6974,Acceptable
+E6982,Excellent
+E6984,Acceptable
+E6987,Acceptable
+E6993,Below Average
+E6998,Acceptable
+E7004,Acceptable
+E7021,Above Average
+E7037,Above Average
+E7050,Below Average
+E7056,Acceptable
+E7060,Above Average
+E7061,Excellent
+E7063,Acceptable
+E7070,Below Average
+E7097,Below Average
+E7099,Above Average
+E7105,Above Average
+E7106,Above Average
+E7107,Above Average
+E7113,Acceptable
+E7124,Acceptable
+E7129,Acceptable
+E7136,Excellent
+E7181,Acceptable
+E7185,Acceptable
+E7186,Excellent
+E7187,Below Average
+E7197,Above Average
+E7204,Above Average
+E7205,Excellent
+E7213,Acceptable
+E7216,Acceptable
+E7242,Acceptable
+E7243,Below Average
+E7245,Above Average
+E7246,Acceptable
+E7266,Above Average
+E7272,Above Average
+E7273,Acceptable
+E7282,Acceptable
+E7287,Above Average
+E7289,Acceptable
+E7296,Above Average
+E7299,Acceptable
+E7305,Acceptable
+E7314,Acceptable
+E7321,Above Average
+E7323,Above Average
+E7325,Acceptable
+E7326,Acceptable
+E7328,Acceptable
+E7331,Above Average
+E7332,Above Average
+E7343,Acceptable
+E7346,Above Average
+E7362,Acceptable
+E7379,Acceptable
+E7391,Acceptable
+E7418,Above Average
+E7427,Above Average
+E7438,Acceptable
+E7442,Below Average
+E7461,Acceptable
+E7463,Above Average
+E7467,Excellent
+E7470,Acceptable
+E7486,Below Average
+E7499,Acceptable
+E7507,Above Average
+E7516,Acceptable
+E7523,Acceptable
+E7535,Acceptable
+E7550,Acceptable
+E7552,Acceptable
+E7556,Below Average
+E7562,Acceptable
+E7563,Acceptable
+E7585,Acceptable
+E7586,Acceptable
+E7589,Above Average
+E7595,Acceptable
+E7599,Acceptable
+E7604,Acceptable
+E7634,Acceptable
+E7649,Excellent
+E7650,Acceptable
+E7652,Above Average
+E7654,Excellent
+E7673,Acceptable
+E7683,Above Average
+E7686,Above Average
+E7694,Excellent
+E7700,Acceptable
+E7701,Acceptable
+E7707,Acceptable
+E7714,Acceptable
+E7718,Below Average
+E7722,Above Average
+E7727,Above Average
+E7738,Acceptable
+E7744,Excellent
+E7751,Acceptable
+E7752,Above Average
+E7761,Below Average
+E7762,Above Average
+E7767,Acceptable
+E7770,Acceptable
+E7774,Above Average
+E7793,Acceptable
+E7819,Above Average
+E7838,Acceptable
+E7839,Above Average
+E7842,Above Average
+E7847,Acceptable
+E7850,Acceptable
+E7874,Acceptable
+E7904,Excellent
+E7919,Acceptable
+E7926,Acceptable
+E7928,Acceptable
+E7930,Acceptable
+E7942,Acceptable
+E7951,Unacceptable
+E7968,Acceptable
+E7972,Above Average
+E7973,Acceptable
+E7976,Excellent
+E7990,Below Average
+E8004,Above Average
+E8007,Acceptable
+E8010,Acceptable
+E8011,Acceptable
+E8017,Above Average
+E8020,Above Average
+E8043,Acceptable
+E8057,Acceptable
+E8061,Acceptable
+E8066,Below Average
+E8085,Below Average
+E8092,Below Average
+E8101,Above Average
+E8116,Acceptable
+E8119,Acceptable
+E8124,Above Average
+E8129,Above Average
+E8131,Acceptable
+E8133,Acceptable
+E8134,Above Average
+E8137,Above Average
+E8138,Acceptable
+E8140,Acceptable
+E8150,Above Average
+E8165,Acceptable
+E8177,Excellent
+E8184,Acceptable
+E8185,Above Average
+E8186,Above Average
+E8198,Acceptable
+E8213,Acceptable
+E8215,Above Average
+E8220,Acceptable
+E8223,Above Average
+E8229,Above Average
+E8237,Acceptable
+E8240,Above Average
+E8241,Acceptable
+E8248,Above Average
+E8253,Acceptable
+E8258,Acceptable
+E8263,Above Average
+E8264,Above Average
+E8270,Acceptable
+E8283,Acceptable
+E8289,Acceptable
+E8290,Acceptable
+E8296,Below Average
+E8298,Above Average
+E8300,Above Average
+E8309,Acceptable
+E8311,Above Average
+E8313,Acceptable
+E8326,Acceptable
+E8349,Above Average
+E8350,Above Average
+E8362,Acceptable
+E8364,Above Average
+E8376,Above Average
+E8379,Acceptable
+E8381,Above Average
+E8385,Below Average
+E8390,Acceptable
+E8391,Acceptable
+E8408,Acceptable
+E8411,Acceptable
+E8416,Above Average
+E8430,Acceptable
+E8437,Acceptable
+E8438,Below Average
+E8439,Above Average
+E8441,Above Average
+E8450,Excellent
+E8452,Acceptable
+E8453,Above Average
+E8459,Acceptable
+E8474,Above Average
+E8478,Acceptable
+E8480,Below Average
+E8485,Acceptable
+E8506,Above Average
+E8507,Below Average
+E8516,Above Average
+E8529,Acceptable
+E8536,Excellent
+E8539,Acceptable
+E8540,Acceptable
+E8575,Above Average
+E8576,Above Average
+E8605,Excellent
+E8607,Unacceptable
+E8613,Below Average
+E8628,Above Average
+E8646,Acceptable
+E8647,Acceptable
+E8667,Above Average
+E8668,Acceptable
+E8670,Acceptable
+E8673,Acceptable
+E8675,Excellent
+E8676,Below Average
+E8685,Acceptable
+E8694,Above Average
+E8698,Above Average
+E8703,Acceptable
+E8705,Unacceptable
+E8706,Acceptable
+E8709,Above Average
+E8738,Acceptable
+E8744,Acceptable
+E8763,Above Average
+E8767,Above Average
+E8772,Above Average
+E8783,Acceptable
+E8786,Above Average
+E8804,Excellent
+E8805,Above Average
+E8810,Acceptable
+E8811,Below Average
+E8812,Acceptable
+E8815,Above Average
+E8819,Acceptable
+E8842,Acceptable
+E8844,Acceptable
+E8879,Above Average
+E8883,Acceptable
+E8893,Acceptable
+E8903,Acceptable
+E8911,Acceptable
+E8921,Acceptable
+E8922,Acceptable
+E8923,Above Average
+E8934,Above Average
+E8939,Above Average
+E8942,Above Average
+E8945,Below Average
+E8946,Above Average
+E8948,Acceptable
+E8950,Above Average
+E8957,Above Average
+E8958,Acceptable
+E8962,Acceptable
+E8966,Above Average
+E8973,Above Average
+E8982,Above Average
+E8984,Acceptable
+E8986,Excellent
+E8999,Acceptable
+E9001,Acceptable
+E9002,Above Average
+E9003,Above Average
+E9007,Above Average
+E9014,Above Average
+E9023,Acceptable
+E9031,Above Average
+E9050,Above Average
+E9051,Acceptable
+E9054,Acceptable
+E9061,Acceptable
+E9070,Above Average
+E9075,Acceptable
+E9077,Acceptable
+E9080,Acceptable
+E9087,Acceptable
+E9100,Acceptable
+E9104,Acceptable
+E9135,Above Average
+E9141,Acceptable
+E9146,Unacceptable
+E9151,Excellent
+E9157,Above Average
+E9158,Acceptable
+E9179,Above Average
+E9181,Excellent
+E9204,Acceptable
+E9211,Acceptable
+E9234,Acceptable
+E9242,Above Average
+E9244,Above Average
+E9249,Above Average
+E9255,Acceptable
+E9264,Acceptable
+E9267,Above Average
+E9278,Below Average
+E9283,Acceptable
+E9291,Above Average
+E9292,Acceptable
+E9294,Acceptable
+E9308,Acceptable
+E9317,Acceptable
+E9324,Acceptable
+E9359,Acceptable
+E9385,Acceptable
+E9401,Below Average
+E9406,Below Average
+E9411,Acceptable
+E9412,Above Average
+E9429,Acceptable
+E9435,Acceptable
+E9436,Acceptable
+E9449,Acceptable
+E9452,Above Average
+E9456,Above Average
+E9461,Unacceptable
+E9470,Acceptable
+E9483,Acceptable
+E9490,Excellent
+E9496,Acceptable
+E9505,Above Average
+E9522,Acceptable
+E9531,Above Average
+E9534,Acceptable
+E9544,Acceptable
+E9563,Acceptable
+E9564,Above Average
+E9571,Acceptable
+E9573,Above Average
+E9577,Above Average
+E9579,Below Average
+E9581,Acceptable
+E9582,Acceptable
+E9585,Acceptable
+E9593,Below Average
+E9596,Above Average
+E9597,Above Average
+E9599,Acceptable
+E9600,Acceptable
+E9609,Acceptable
+E9623,Acceptable
+E9624,Above Average
+E9658,Acceptable
+E9659,Acceptable
+E9686,Above Average
+E9688,Excellent
+E9700,Acceptable
+E9702,Acceptable
+E9703,Above Average
+E9708,Acceptable
+E9714,Excellent
+E9723,Above Average
+E9731,Acceptable
+E9733,Acceptable
+E9734,Acceptable
+E9735,Acceptable
+E9737,Acceptable
+E9750,Excellent
+E9756,Acceptable
+E9757,Acceptable
+E9761,Acceptable
+E9768,Acceptable
+E9776,Above Average
+E9787,Above Average
+E9802,Below Average
+E9806,Acceptable
+E9808,Acceptable
+E9826,Acceptable
+E9835,Below Average
+E9848,Above Average
+E9855,Acceptable
+E9864,Acceptable
+E9866,Above Average
+E9867,Acceptable
+E9877,Below Average
+E9878,Acceptable
+E9881,Below Average
+E9884,Excellent
+E9890,Acceptable
+E9895,Acceptable
+E9898,Above Average
+E9904,Acceptable
+E9907,Acceptable
+E9927,Acceptable
+E9934,Acceptable
+E9938,Acceptable
+E9950,Above Average
+E9957,Above Average
+E9960,Excellent
+E9977,Above Average
+E9980,Acceptable
+E9992,Acceptable
+E9993,Acceptable
+E10012,Above Average
+E10025,Acceptable
+E10027,Acceptable
+E10048,Acceptable
+E10060,Acceptable
+E10061,Below Average
+E10065,Acceptable
+E10066,Above Average
+E10078,Acceptable
+E10083,Above Average
+E10086,Acceptable
+E10093,Above Average
+E10095,Above Average
+E10103,Acceptable
+E10105,Excellent
+E10107,Acceptable
+E10130,Acceptable
+E10132,Acceptable
+E10147,Excellent
+E10153,Above Average
+E10156,Acceptable
+E10158,Acceptable
+E10181,Acceptable
+E10190,Above Average
+E10195,Acceptable
+E10196,Above Average
+E10197,Acceptable
+E10213,Acceptable
+E10222,Excellent
+E10240,Above Average
+E10255,Acceptable
+E10258,Acceptable
+E10262,Acceptable
+E10268,Below Average
+E10274,Acceptable
+E10286,Above Average
+E10298,Excellent
+E10309,Above Average
+E10311,Above Average
+E10315,Acceptable
+E10319,Excellent
+E10330,Excellent
+E10333,Below Average
+E10345,Acceptable
+E10358,Acceptable
+E10379,Excellent
+E10394,Acceptable
+E10404,Acceptable
+E10412,Acceptable
+E10431,Acceptable
+E10447,Acceptable
+E10448,Below Average
+E10460,Acceptable
+E10462,Above Average
+E10470,Excellent
+E10473,Acceptable
+E10478,Acceptable
+E10482,Above Average
+E10484,Above Average
+E10486,Above Average
+E10489,Acceptable
+E10496,Above Average
+E10497,Acceptable
+E10498,Acceptable
+E10502,Acceptable
+E10504,Above Average
+E10506,Acceptable
+E10509,Excellent
+E10510,Below Average
+E10513,Below Average
+E10517,Above Average
+E10529,Excellent
+E10536,Acceptable
+E10550,Above Average
+E10563,Below Average
+E10567,Above Average
+E10573,Acceptable
+E10589,Acceptable
+E10605,Excellent
+E10608,Acceptable
+E10610,Acceptable
+E10616,Acceptable
+E10619,Acceptable
+E10620,Acceptable
+E10633,Acceptable
+E10634,Acceptable
+E10635,Excellent
+E10641,Acceptable
+E10647,Acceptable
+E10662,Acceptable
+E10677,Above Average
+E10681,Acceptable
+E10699,Acceptable
+E10701,Acceptable
+E10702,Excellent
+E10703,Acceptable
+E10717,Acceptable
+E10722,Below Average
+E10730,Above Average
+E10737,Above Average
+E10753,Above Average
+E10757,Above Average
+E10783,Above Average
+E10799,Acceptable
+E10801,Acceptable
+E10803,Acceptable
+E10805,Acceptable
+E10811,Acceptable
+E10823,Unacceptable
+E10826,Above Average
+E10828,Acceptable
+E10843,Excellent
+E10865,Below Average
+E10871,Below Average
+E10874,Acceptable
+E10889,Acceptable
+E10891,Above Average
+E10895,Acceptable
+E10899,Acceptable
+E10909,Acceptable
+E10919,Above Average
+E10923,Acceptable
+E10927,Acceptable
+E10932,Acceptable
+E10933,Above Average
+E10969,Below Average
+E10973,Acceptable
+E10975,Acceptable
+E10980,Above Average
+E10993,Acceptable
+E10994,Below Average
+E11006,Above Average
+E11007,Acceptable
+E11008,Acceptable
+E11014,Above Average
+E11019,Acceptable
+E11020,Above Average
+E11024,Acceptable
+E11026,Above Average
+E11031,Acceptable
+E11035,Acceptable
+E11042,Acceptable
+E11050,Acceptable
+E11061,Acceptable
+E11065,Acceptable
+E11073,Acceptable
+E11076,Acceptable
+E11090,Below Average
+E11105,Excellent
+E11106,Above Average
+E11119,Acceptable
+E11139,Above Average
+E11147,Acceptable
+E11153,Excellent
+E11154,Acceptable
+E11158,Above Average
+E11167,Acceptable
+E11169,Below Average
+E11177,Acceptable
+E11180,Acceptable
+E11183,Acceptable
+E11184,Acceptable
+E11194,Above Average
+E11217,Acceptable
+E11237,Below Average
+E11246,Excellent
+E11254,Above Average
+E11266,Acceptable
+E11276,Below Average
+E11277,Acceptable
+E11284,Above Average
+E11286,Acceptable
+E11300,Acceptable
+E11307,Acceptable
+E11313,Acceptable
+E11318,Acceptable
+E11322,Acceptable
+E11327,Acceptable
+E11328,Acceptable
+E11329,Below Average
+E11333,Acceptable
+E11338,Above Average
+E11341,Above Average
+E11343,Above Average
+E11354,Acceptable
+E11356,Below Average
+E11357,Acceptable
+E11360,Acceptable
+E11363,Acceptable
+E11366,Acceptable
+E11371,Acceptable
+E11376,Above Average
+E11380,Acceptable
+E11387,Acceptable
+E11392,Acceptable
+E11405,Above Average
+E11406,Below Average
+E11436,Excellent
+E11437,Excellent
+E11460,Acceptable
+E11462,Above Average
+E11467,Acceptable
+E11479,Acceptable
+E11480,Unacceptable
+E11481,Acceptable
+E11494,Acceptable
+E11497,Acceptable
+E11502,Acceptable
+E11503,Excellent
+E11518,Excellent
+E11519,Acceptable
+E11524,Acceptable
+E11527,Above Average
+E11535,Acceptable
+E11544,Excellent
+E11546,Above Average
+E11554,Acceptable
+E11555,Above Average
+E11587,Above Average
+E11595,Acceptable
+E11598,Acceptable
+E11603,Acceptable
+E11607,Acceptable
+E11625,Acceptable
+E11638,Above Average
+E11645,Acceptable
+E11646,Acceptable
+E11648,Acceptable
+E11653,Acceptable
+E11665,Acceptable
+E11666,Acceptable
+E11670,Acceptable
+E11676,Below Average
+E11679,Acceptable
+E11695,Acceptable
+E11697,Above Average
+E11716,Acceptable
+E11722,Acceptable
+E11733,Above Average
+E11736,Acceptable
+E11748,Above Average
+E11761,Excellent
+E11764,Acceptable
+E11778,Acceptable
+E11783,Acceptable
+E11789,Acceptable
+E11794,Above Average
+E11801,Acceptable
+E11806,Acceptable
+E11810,Above Average
+E11817,Excellent
+E11832,Above Average
+E11836,Above Average
+E11844,Acceptable
+E11849,Acceptable
+E11851,Above Average
+E11855,Acceptable
+E11858,Above Average
+E11860,Above Average
+E11863,Acceptable
+E11867,Above Average
+E11880,Above Average
+E11881,Acceptable
+E11922,Excellent
+E11932,Acceptable
+E11933,Above Average
+E11934,Above Average
+E11947,Acceptable
+E11950,Acceptable
+E11959,Acceptable
+E11966,Acceptable
+E11977,Acceptable
+E11988,Above Average
+E11993,Acceptable
+E11995,Excellent
+E12005,Above Average
+E12015,Above Average
+E12030,Below Average
+E12040,Above Average
+E12046,Acceptable
+E12051,Acceptable
+E12052,Acceptable
+E12063,Excellent
+E12065,Acceptable
+E12067,Above Average
+E12070,Acceptable
+E12072,Acceptable
+E12076,Acceptable
+E12079,Above Average
+E12088,Acceptable
+E12110,Acceptable
+E12127,Above Average
+E12139,Above Average
+E12145,Acceptable
+E12146,Acceptable
+E12147,Above Average
+E12148,Acceptable
+E12152,Below Average
+E12153,Above Average
+E12166,Acceptable
+E12171,Above Average
+E12174,Excellent
+E12177,Excellent
+E12182,Above Average
+E12202,Acceptable
+E12208,Above Average
+E12209,Acceptable
+E12212,Acceptable
+E12213,Acceptable
+E12231,Acceptable
+E12238,Above Average
+E12240,Acceptable
+E12251,Acceptable
+E12256,Acceptable
+E12260,Above Average
+E12266,Acceptable
+E12267,Acceptable
+E12272,Above Average
+E12276,Acceptable
+E12291,Acceptable
+E12308,Acceptable
+E12313,Above Average
+E12320,Above Average
+E12322,Acceptable
+E12338,Above Average
+E12346,Acceptable
+E12361,Acceptable
+E12371,Acceptable
+E12382,Acceptable
+E12383,Acceptable
+E12385,Excellent
+E12390,Acceptable
+E12392,Above Average
+E12402,Acceptable
+E12406,Above Average
+E12409,Acceptable
+E12419,Acceptable
+E12424,Acceptable
+E12437,Acceptable
+E12438,Acceptable
+E12441,Above Average
+E12447,Acceptable
+E12452,Acceptable
+E12460,Acceptable
+E12461,Acceptable
+E12468,Below Average
+E12472,Above Average
+E12476,Acceptable
+E12479,Below Average
+E12483,Below Average
+E12485,Acceptable
+E12487,Acceptable
+E12492,Above Average
+E12495,Acceptable
+E12498,Acceptable
+E12507,Acceptable
+E12523,Acceptable
+E12531,Acceptable
+E12549,Below Average
+E12564,Above Average
+E12575,Acceptable
+E12577,Acceptable
+E12580,Acceptable
+E12593,Acceptable
+E12594,Above Average
+E12595,Above Average
+E12597,Acceptable
+E12609,Above Average
+E12611,Acceptable
+E12612,Above Average
+E12616,Acceptable
+E12617,Acceptable
+E12620,Acceptable
+E12627,Acceptable
+E12642,Acceptable
+E12644,Acceptable
+E12658,Above Average
+E12667,Acceptable
+E12668,Acceptable
+E12669,Acceptable
+E12678,Acceptable
+E12679,Acceptable
+E12681,Above Average
+E12688,Acceptable
+E12696,Acceptable
+E12697,Below Average
+E12699,Acceptable
+E12722,Acceptable
+E12740,Acceptable
+E12741,Acceptable
+E12749,Acceptable
+E12750,Above Average
+E12765,Above Average
+E12766,Acceptable
+E12769,Below Average
+E12773,Acceptable
+E12779,Acceptable
+E12793,Acceptable
+E12795,Acceptable
+E12801,Acceptable
+E12806,Above Average
+E12818,Acceptable
+E12829,Above Average
+E12836,Acceptable
+E12839,Acceptable
+E12846,Above Average
+E12849,Acceptable
+E12862,Acceptable
+E12876,Above Average
+E12878,Acceptable
+E12888,Excellent
+E12895,Above Average
+E12897,Above Average
+E12900,Acceptable
+E12901,Acceptable
+E12927,Excellent
+E12946,Acceptable
+E12955,Above Average
+E12959,Excellent
+E12961,Acceptable
+E12962,Acceptable
+E12963,Above Average
+E12967,Acceptable
+E12973,Excellent
+E12984,Acceptable
+E12988,Above Average
+E12989,Acceptable
+E12993,Below Average
+E13013,Acceptable
+E13014,Above Average
+E13028,Acceptable
+E13038,Acceptable
+E13048,Acceptable
+E13050,Acceptable
+E13072,Acceptable
+E13090,Above Average
+E13093,Below Average
+E13098,Above Average
+E13102,Above Average
+E13103,Below Average
+E13109,Above Average
+E13114,Above Average
+E13125,Unacceptable
+E13131,Below Average
+E13135,Above Average
+E13139,Acceptable
+E13141,Unacceptable
+E13144,Below Average
+E13145,Acceptable
+E13150,Above Average
+E13154,Below Average
+E13175,Below Average
+E13179,Acceptable
+E13185,Above Average
+E13188,Below Average
+E13192,Acceptable
+E13211,Above Average
+E13213,Acceptable
+E13215,Acceptable
+E13217,Acceptable
+E13218,Above Average
+E13220,Excellent
+E13221,Above Average
+E13228,Acceptable
+E13229,Acceptable
+E13230,Acceptable
+E13240,Acceptable
+E13241,Acceptable
+E13244,Above Average
+E13256,Acceptable
+E13260,Acceptable
+E13264,Above Average
+E13272,Acceptable
+E13274,Acceptable
+E13279,Below Average
+E13280,Above Average
+E13285,Acceptable
+E13287,Acceptable
+E13294,Acceptable
+E13296,Above Average
+E13300,Acceptable
+E13302,Acceptable
+E13305,Acceptable
+E13307,Above Average
+E13320,Above Average
+E13325,Acceptable
+E13340,Acceptable
+E13342,Acceptable
+E13345,Acceptable
+E13349,Above Average
+E13357,Above Average
+E13391,Acceptable
+E13410,Above Average
+E13412,Acceptable
+E13428,Below Average
+E13429,Above Average
+E13430,Unacceptable
+E13439,Acceptable
+E13442,Acceptable
+E13445,Above Average
+E13458,Acceptable
+E13462,Excellent
+E13478,Below Average
+E13485,Acceptable
+E13489,Above Average
+E13490,Below Average
+E13491,Above Average
+E13497,Acceptable
+E13501,Above Average
+E13522,Above Average
+E13535,Acceptable
+E13539,Acceptable
+E13541,Above Average
+E13549,Above Average
+E13563,Above Average
+E13571,Above Average
+E13577,Excellent
+E13588,Acceptable
+E13611,Above Average
+E13614,Acceptable
+E13617,Above Average
+E13631,Below Average
+E13634,Acceptable
+E13643,Acceptable
+E13660,Acceptable
+E13662,Above Average
+E13676,Acceptable
+E13684,Acceptable
+E13710,Above Average
+E13713,Acceptable
+E13722,Acceptable
+E13727,Acceptable
+E13731,Acceptable
+E13732,Below Average
+E13751,Acceptable
+E13752,Above Average
+E13756,Acceptable
+E13759,Acceptable
+E13774,Acceptable
+E13775,Acceptable
+E13791,Acceptable
+E13796,Above Average
+E13797,Acceptable
+E13799,Acceptable
+E13826,Acceptable
+E13827,Acceptable
+E13829,Above Average
+E13838,Above Average
+E13839,Acceptable
+E13845,Acceptable
+E13846,Acceptable
+E13851,Below Average
+E13853,Acceptable
+E13863,Unacceptable
+E13881,Excellent
+E13900,Acceptable
+E13904,Above Average
+E13908,Acceptable
